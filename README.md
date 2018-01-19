@@ -1,3 +1,3 @@
 # bootstrap4-plantilla-inicial
-Plantilla inicial de bootstrap 4 Beta 3
-Bootstrap 4 3 Beta Template 
+Plantilla inicial de bootstrap 4.0.0
+Bootstrap 4.0.0
